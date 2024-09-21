@@ -1,3 +1,3 @@
-#Git Basics
+# Well come to my Git Basics project
 ## Intro
-Tis is my basic git course 
+Tis is my git basics project course 
